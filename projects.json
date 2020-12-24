@@ -3,5 +3,20 @@
         "title": "MeFoodDiary",
         "url": "https://github.com/jopakka/MeFoodDiary",
         "desc": "Food diary, school project"
+    },
+    {
+        "title": "Zumo bot",
+        "url": "https://github.com/jopakka/Zumo-bot-project",
+        "desc": "School project"
+    },
+    {
+        "title": "GamerVibe website",
+        "url": "https://github.com/jopakka/GamerVibe-Website",
+        "desc": "Instagram for gamers, a place to share in game images and gamer persona, school project"
+    },
+    {
+        "title": "Kenraali bot",
+        "url": "https://github.com/jopakka/Kenraali-bot",
+        "desc": "Discord bot, for fun"
     }
 ]
