@@ -2,7 +2,7 @@
     {
         "title": "MeFoodDiary",
         "url": "https://github.com/jopakka/MeFoodDiary",
-        "desc": "Food diary, school project"
+        "desc": "Food diary. School project"
     },
     {
         "title": "Zumo bot",
@@ -12,11 +12,21 @@
     {
         "title": "GamerVibe website",
         "url": "https://github.com/jopakka/GamerVibe-Website",
-        "desc": "Instagram for gamers, a place to share in game images and gamer persona, school project"
+        "desc": "Instagram for gamers, a place to share in game images and gamer persona. School project"
     },
     {
         "title": "Kenraali bot",
         "url": "https://github.com/jopakka/Kenraali-bot",
-        "desc": "Discord bot, for fun"
+        "desc": "Discord bot. For fun"
+    },
+    {
+        "title": "Jack The Avenger",
+        "url": "https://github.com/jopakka/Jack-The-Avenger",
+        "desc": "You play as a Jack and you try to avenge for local mafia for what they did for your father. School project"
+    },
+    {
+        "title": "Jack The Avenger",
+        "url": "https://github.com/jopakka/Jack-The-Avenger",
+        "desc": "You play as a Jack and you try to avenge for local mafia for what they did for your father. School project"
     }
 ]
