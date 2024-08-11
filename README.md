@@ -1,4 +1,14 @@
-### Hello there
+👋 **Hi there! I'm Joonas Niemi.**
+
+- 🚀 **Android Developer** with a passion for crafting intuitive and efficient mobile applications using **Kotlin**.
+- 🎮 **Hobbyist Game Developer**, exploring the realms of game design and development in my free time.
+- 💡 Constantly experimenting with new technologies and frameworks to push the boundaries of what's possible.
+- 🌱 Currently delving into **Android development, Jetpack Compose, Google ARCore, Unity**.
+<!-- - 🎯 **Open-Source Enthusiast**: I believe in the power of collaboration and contribute to various projects whenever I can. -->
+
+📫 **How to reach me**:
+- [LinkedIn](https://www.linkedin.com/in/joonasniemi)
+- [Personal Website/Portfolio](https://jopakka.github.io/)
 
 <!--
 **jopakka/jopakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
